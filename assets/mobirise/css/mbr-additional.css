@@ -1110,16 +1110,18 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rHsRm81uk3 {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rHsRm81uk3 .form-control,
 .cid-rHsRm81uk3 .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffffff;
+  background: #efefef;
+  border: 1px solid #efefef;
 }
 .cid-rHsRm81uk3 .form-container {
   transition: all .2s;
-  border: 1px solid #ffffff;
+  border: 1px solid #efefef;
   padding: 1rem;
 }
 .cid-rHsRm81uk3 textarea.form-control {
@@ -1133,6 +1135,13 @@ section.lazy-placeholder:after {
   .cid-rHsRm81uk3 .content-container {
     padding-right: 5rem;
   }
+}
+.cid-rHsRm81uk3 H1 {
+  text-align: left;
+}
+.cid-rHsRm81uk3 .mbr-text,
+.cid-rHsRm81uk3 .mbr-section-btn {
+  text-align: left;
 }
 .cid-rHsREjzOtl {
   padding-top: 90px;
